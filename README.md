@@ -3,12 +3,12 @@ scraping data from websites
 
 There are two spider in scrape/spiders
 
-$ scrapy list\n
-quotes\n
-lyrics\n
+$ scrapy list<br>
+quotes
+lyrics
 
-quotes is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com\n
-lyrics is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html\n
+quotes is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com
+lyrics is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html
 
 the output is stored in files
 
