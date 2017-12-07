@@ -1,7 +1,7 @@
 import scrapy
 
 class Modest_mouse(scrapy.Spider):
-    name = 'tree'
+    name = 'lyrics'
     start_urls = [
             'http://www.metrolyrics.com/modest-mouse-lyrics.html',
     ]
