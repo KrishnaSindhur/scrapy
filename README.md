@@ -1,17 +1,18 @@
 # scrapy
-scraping data from websites
 
-There are two spider in scrape/spiders
+scraping data from websites<br>
+
+There are two spider in scrape/spiders<br>
 
 $ scrapy list<br>
-quotes
-lyrics
+quotes<nr>
+lyrics<br>
 
-quotes is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com
-lyrics is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html
+quotes is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com<br>
+lyrics is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html<br>
 
-the output is stored in files
+The output is stored in files<br>
 
-quote.json:- the quotes in text format
+quote.json:- the quotes in text format<br>
 
 modest_mouse.txt:-the lyrics in text format
