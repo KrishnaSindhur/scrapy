@@ -5,11 +5,11 @@ scraping data from websites<br>
 There are two spider in scrape/spiders<br>
 
 $ scrapy list<br>
-quotes<nr>
+quotes<br>
 lyrics<br>
 
-quotes is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com<br>
-lyrics is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html<br>
+"quotes" is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com<br>
+"lyrics" is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html<br>
 
 The output is stored in files<br>
 
