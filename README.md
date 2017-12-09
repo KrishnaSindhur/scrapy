@@ -9,7 +9,8 @@ quotes<br>
 lyrics<br>
 
 "quotes" is a name of one spider which scrapes quotes from  link 'http://quotes.toscrape.com<br>
-"lyrics" is a name of ther spider which scrapes quotes from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html<br>
+
+"lyrics" is a name of ther spider which scrapes lyrics in text format from link 'http://www.metrolyrics.com/modest-mouse-lyrics.html<br>
 
 The output is stored in files<br>
 
